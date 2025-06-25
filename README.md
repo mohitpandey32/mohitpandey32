@@ -176,5 +176,5 @@ const alex = {
 </div>
 
 <div align="center">
-  <i>⭐ From [alexkumar](https://github.com/mohitpandey32) with ❤️</i>
+  <i>⭐ From [Mohit](https://github.com/mohitpandey32) with ❤️</i>
 </div>
