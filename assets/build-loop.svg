@@ -1,0 +1,17 @@
+<svg width="1200" height="265" viewBox="0 0 1200 265" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="265"><stop stop-color="#0B1020"/><stop offset=".5" stop-color="#111128"/><stop offset="1" stop-color="#08151D"/></linearGradient><linearGradient id="g"><stop stop-color="#7C3AED"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="263" rx="26" fill="url(#bg)" stroke="#293548"/>
+  <text x="56" y="57" fill="#A78BFA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="3">05 / BUILD LOOP</text>
+  <text x="56" y="98" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="27" font-weight="720">Learn → build → break → understand → repeat.</text>
+  <text x="56" y="128" fill="#64748B" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13">Progress is a system, not a streak.</text>
+
+  <g transform="translate(56 166)">
+    <g fill="#172033">
+      <rect x="0" y="0" width="30" height="30" rx="6"/><rect x="38" y="0" width="30" height="30" rx="6"/><rect x="76" y="0" width="30" height="30" rx="6"/><rect x="114" y="0" width="30" height="30" rx="6"/><rect x="152" y="0" width="30" height="30" rx="6"/><rect x="190" y="0" width="30" height="30" rx="6"/><rect x="228" y="0" width="30" height="30" rx="6"/><rect x="266" y="0" width="30" height="30" rx="6"/><rect x="304" y="0" width="30" height="30" rx="6"/><rect x="342" y="0" width="30" height="30" rx="6"/><rect x="380" y="0" width="30" height="30" rx="6"/><rect x="418" y="0" width="30" height="30" rx="6"/><rect x="456" y="0" width="30" height="30" rx="6"/><rect x="494" y="0" width="30" height="30" rx="6"/><rect x="532" y="0" width="30" height="30" rx="6"/><rect x="570" y="0" width="30" height="30" rx="6"/><rect x="608" y="0" width="30" height="30" rx="6"/><rect x="646" y="0" width="30" height="30" rx="6"/><rect x="684" y="0" width="30" height="30" rx="6"/><rect x="722" y="0" width="30" height="30" rx="6"/><rect x="760" y="0" width="30" height="30" rx="6"/><rect x="798" y="0" width="30" height="30" rx="6"/><rect x="836" y="0" width="30" height="30" rx="6"/><rect x="874" y="0" width="30" height="30" rx="6"/><rect x="912" y="0" width="30" height="30" rx="6"/><rect x="950" y="0" width="30" height="30" rx="6"/><rect x="988" y="0" width="30" height="30" rx="6"/><rect x="1026" y="0" width="30" height="30" rx="6"/><rect x="1064" y="0" width="24" height="30" rx="6"/>
+    </g>
+    <rect x="0" y="0" width="30" height="30" rx="6" fill="url(#g)"><animate attributeName="x" values="0;38;76;114;152;190;228;266;304;342;380;418;456;494;532;570;608;646;684;722;760;798;836;874;912;950;988;1026;1064;0" dur="9s" repeatCount="indefinite"/></rect>
+    <rect x="0" y="38" width="1088" height="3" rx="1.5" fill="#1E293B"/><rect x="0" y="38" width="260" height="3" rx="1.5" fill="url(#g)"><animate attributeName="x" values="0;828;0" dur="9s" repeatCount="indefinite"/></rect>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#64748B"><text x="56" y="239">IDEA</text><text x="578" y="239">ITERATION</text><text x="1110" y="239" text-anchor="end">SHIP</text></g>
+</svg>
+

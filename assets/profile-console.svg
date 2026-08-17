@@ -1,0 +1,51 @@
+<svg width="1200" height="410" viewBox="0 0 1200 410" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Identity console</title>
+  <desc id="desc">An animated visual profile of Mohit Pandey.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="410"><stop stop-color="#080C17"/><stop offset=".55" stop-color="#0D1224"/><stop offset="1" stop-color="#08131C"/></linearGradient>
+    <linearGradient id="line" x1="90" y1="0" x2="1040" y2="0"><stop stop-color="#A78BFA"/><stop offset=".5" stop-color="#7C3AED"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7C3AED" stop-opacity=".34"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity=".045"/></pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+    <clipPath id="clip"><rect x="1" y="1" width="1198" height="408" rx="26"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="1198" height="408" rx="26" fill="url(#bg)" stroke="#293548"/>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="410" fill="url(#grid)"/>
+    <circle cx="150" cy="340" r="230" fill="url(#glow)" filter="url(#blur)"><animate attributeName="cx" values="130;250;130" dur="10s" repeatCount="indefinite"/></circle>
+    <rect x="44" y="38" width="1112" height="334" rx="20" fill="#070B13" fill-opacity=".58" stroke="#334155" stroke-opacity=".8"/>
+    <path d="M44 96H1156" stroke="#334155" stroke-opacity=".7"/>
+    <circle cx="72" cy="67" r="5" fill="#FB7185"/><circle cx="91" cy="67" r="5" fill="#FBBF24"/><circle cx="110" cy="67" r="5" fill="#34D399"/>
+    <text x="139" y="73" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">identity.console</text>
+    <text x="1108" y="73" fill="#34D399" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" text-anchor="end">● ONLINE</text>
+
+    <g transform="translate(78 130)">
+      <text fill="#A78BFA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="3">01 / IDENTITY</text>
+      <text y="58" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="34" font-weight="750">I build digital products</text>
+      <text y="98" fill="url(#line)" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="34" font-weight="750">with clarity, motion &amp; intent.</text>
+      <text y="145" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">Computer Science student · Frontend developer · Curious problem solver</text>
+      <text y="174" fill="#64748B" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Based in Gurugram, India — building for the web and learning in public.</text>
+      <rect y="205" width="410" height="2" rx="1" fill="#1E293B"/>
+      <rect y="205" width="104" height="2" rx="1" fill="url(#line)"><animate attributeName="width" values="80;410;80" dur="5s" repeatCount="indefinite"/></rect>
+    </g>
+
+    <g transform="translate(720 126)">
+      <rect width="384" height="56" rx="13" fill="#111827" fill-opacity=".88" stroke="#7C3AED" stroke-opacity=".5"/>
+      <text x="20" y="23" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="2">CURRENT MODE</text>
+      <text x="20" y="43" fill="#E2E8F0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">Shipping frontend experiences</text>
+      <circle cx="352" cy="28" r="7" fill="#7C3AED"><animate attributeName="r" values="5;9;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle>
+
+      <rect y="70" width="384" height="56" rx="13" fill="#111827" fill-opacity=".88" stroke="#22D3EE" stroke-opacity=".45"/>
+      <text x="20" y="93" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="2">DEEPENING</text>
+      <text x="20" y="113" fill="#E2E8F0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">Backend systems + architecture</text>
+      <path d="M340 99h24M352 87v24" stroke="#22D3EE" stroke-width="2" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="0 352 99;360 352 99" dur="7s" repeatCount="indefinite"/></path>
+
+      <rect y="140" width="384" height="56" rx="13" fill="#111827" fill-opacity=".88" stroke="#34D399" stroke-opacity=".42"/>
+      <text x="20" y="163" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="2">AVAILABLE FOR</text>
+      <text x="20" y="183" fill="#E2E8F0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">Open source + collaborations</text>
+      <path d="M340 168h24" stroke="#34D399" stroke-width="2"/><circle cx="352" cy="168" r="5" fill="#34D399"><animate attributeName="cx" values="342;362;342" dur="3s" repeatCount="indefinite"/></circle>
+    </g>
+    <rect x="-180" y="38" width="90" height="334" fill="url(#line)" opacity=".045" transform="skewX(-18)"><animate attributeName="x" values="-180;1390" dur="8s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
+
